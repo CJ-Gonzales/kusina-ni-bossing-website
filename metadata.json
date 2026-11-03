@@ -1,0 +1,6 @@
+{
+  "name": "Kusina ni Bossing: 2D Karinderya Simulator",
+  "description": "Official showcase website, interactive gallery, and gameplay overview for Kusina ni Bossing 2D Karinderya Simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
